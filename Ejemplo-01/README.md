@@ -1,0 +1,3 @@
+# Datos generales
+- creacion basica
+
